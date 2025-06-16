@@ -85,7 +85,7 @@ The workflow is already configured in `.github/workflows/s3.yml` and will:
 ## Website URL
 
 After deployment, your website will be available at:
-`http://<your-bucket-name>.s3-website-<region>.amazonaws.com`
+(http://16-06-2025-s3bucket.s3-website.us-east-2.amazonaws.com/)
 
 ## License
 
