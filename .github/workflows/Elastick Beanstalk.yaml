@@ -36,5 +36,5 @@ jobs:
           application_name: ${{ env.AWS_APP_NAME }}
           environment_name: ${{ env.AWS_ENV_NAME }}
           version_label: v-${{ github.run_number }}
-          existing_bucket_name: ${{ secrets.EB_BUCKET_NAME }}
+          existing_bucket_name: ${{ secrets.S3_BUCKET_NAME }}
           deployment_package: application.zip
