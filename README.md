@@ -5,6 +5,7 @@ A personal portfolio website showcasing professional experience, skills, and ach
 ## Overview
 
 This project is a responsive web-based resume/portfolio application that displays professional information including:
+
 - Personal introduction
 - Professional summary
 - Key achievements
@@ -65,6 +66,7 @@ No build process or server is required as this is a static website.
 ## Deployment
 
 The site can be deployed to any static web hosting service such as:
+
 - GitHub Pages
 - Netlify
 - Vercel
@@ -76,10 +78,6 @@ The site can be deployed to any static web hosting service such as:
 - Implement project portfolio section
 - Add downloadable PDF resume option
 - Integrate blog functionality
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
